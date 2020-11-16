@@ -16,7 +16,7 @@ Python Web Scraper
     
   <li> How Many <strong>Link</strong> are Inside</li>
   <li> How Many <strong>Div</strong> are Inside</li>
-  <li> How Many <strong>Script<s/trong> are Inside</li> 
+  <li> How Many <strong>Script</strong> are Inside</li> 
     
   <li> If the Site use <strong>Bootstrap</strong></li>  
   <li> If the Site use <strong>Jquery</strong></li>  
