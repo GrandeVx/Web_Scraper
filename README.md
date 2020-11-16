@@ -9,10 +9,10 @@ Python Web Scraper
 
 <h2> Features </h2>
 <ul>
-  <l1> How Many <strong>H1<strong> are Inside </li>
-  <l1> How Many <strong>H2<strong> are Inside </li>
-  <l1> How Many <strong>H3<strong> are Inside </li>
-  <l1> How Many <strong>H4<strong> are Inside </li>
+  <li> How Many <strong>H1<strong> are Inside </li>
+  <li> How Many <strong>H2<strong> are Inside </li>
+  <li> How Many <strong>H3<strong> are Inside </li>
+  <li> How Many <strong>H4<strong> are Inside </li>
     
   <li> How Many <strong>Link<strong> are Inside</li>
   <li> How Many <strong>Div<strong> are Inside</li>
@@ -21,4 +21,4 @@ Python Web Scraper
   <li> If the Site use <strong>Bootstrap<strong></li>  
   <li> If the Site use <strong>Jquery<strong></li>  
     
-    </ul>
+</ul>
